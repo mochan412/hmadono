@@ -1,6 +1,3 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 title = "Haruna Madono"
 languageCode = "en-us"
-
-[taxonomies]
-category="categories"
